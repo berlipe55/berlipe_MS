@@ -1,4 +1,4 @@
-# BERLIPE_MS PROPRIETARY LICENSE (UBPL)
+# BERLIPE_MS PROPRIETARY LICENSE
 
 **Copyright © 2026 berlipe55. All rights reserved.**
 
