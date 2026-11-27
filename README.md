@@ -64,7 +64,7 @@ Acompanhe as [Releases](../../releases) para consultar as versões publicadas.
 
 ## Desenvolvedor
 
-**UnlimitedBerlipe**
+**berlipe55**
 
 Projeto desenvolvido com foco em desempenho, praticidade e monitoramento de sistemas.
 
@@ -76,6 +76,6 @@ Projeto desenvolvido com foco em desempenho, praticidade e monitoramento de sist
 
 *System Monitoring · Network Analysis · Performance*
 
-© UnlimitedBerlipe
+© berlipe55
 
 </div>
